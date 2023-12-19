@@ -8,7 +8,8 @@ Este repositório contém materiais e atividades relacionados à modelagem de ba
 
 - **Atividade 1:** A primeira atividade aborda um cenário em que um pequeno hospital local busca desenvolver um novo sistema para melhor atender às suas necessidades. A operação atual ainda depende parcialmente de planilhas e arquivos antigos, com a expectativa de transferir esses dados para o novo sistema quando estiver funcional.
 
-- **Atividade 2:**
+- **Atividade 2:** Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
+
 - **Atividade 3:**
 - **Atividade 4:**
 
@@ -21,3 +22,5 @@ Se você deseja contribuir com material relacionado às atividades, melhorias na
 3. Realize as alterações desejadas e faça commits: `git commit -m "Descrição das alterações"`.
 4. Faça um push para a sua branch: `git push origin nome-da-sua-branch`.
 5. Abra um pull request para revisão.
+
+Bons estudos!
