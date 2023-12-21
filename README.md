@@ -10,7 +10,8 @@ Este repositório contém materiais e atividades relacionados à modelagem de ba
 
 - **Atividade 2:** Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
 
-- **Atividade 3:**
+- **Atividade 3:** Script de povoamento geral das tabelas desenvolvidas na atividade 2 e comandos SQL para realizar algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão.
+
 - **Atividade 4:**
 
 ## Como Contribuir
