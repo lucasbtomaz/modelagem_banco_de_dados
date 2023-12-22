@@ -12,7 +12,7 @@ Este repositório contém materiais e atividades relacionados à modelagem de ba
 
 - **Atividade 3:** Script de povoamento geral das tabelas desenvolvidas na atividade 2 e comandos SQL para realizar algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão.
 
-- **Atividade 4:**
+- **Atividade 4:** A tarefa consiste em criar consultas que levem aos resultados esperados.
 
 ## Como Contribuir
 
